@@ -78,7 +78,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/Exp_Chattti" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/KendrickKalmar/KendrickKalmar/refs/heads/main/Exp_Chattti.png)
+[<img src="/Exp_Chattti.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/KendrickKalmar/KendrickKalmar/refs/heads/main/Exp_Chattti.png)
 
 <br>
 
